@@ -691,7 +691,9 @@ AddOutputFilter chunkFilter
 				<Item Name="Spark MAX Status 2 Frame.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/REVLib/Typedef/Spark MAX Status 2 Frame.ctl"/>
 				<Item Name="Spark MAX Get Status 2.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/REVLib/SubVI/Private/Spark MAX Get Status 2.vi"/>
 				<Item Name="Spark MAX Get Sensor Position.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/REVLib/SubVI/Public/Spark MAX Get Sensor Position.vi"/>
-				<Item Name="Spark MAX Get Analog Sensor Voltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/SPARK MAX/SubVI/Public/Spark MAX Get Analog Sensor Voltage.vi"/>
+				<Item Name="Spark MAX Get Analog Sensor Voltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/REVLib/SubVI/Public/Spark MAX Get Analog Sensor Voltage.vi"/>
+				<Item Name="Spark MAX Get Status 3.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/REVLib/SubVI/Private/Spark MAX Get Status 3.vi"/>
+				<Item Name="Spark MAX Status 3 Frame.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/REV Robotics/REVLib/Typedef/Spark MAX Status 3 Frame.ctl"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
